@@ -1,0 +1,21 @@
+None,A,B,C,D,E,F,G,H,I,J,K,L,M,Reactor,Lower Engine,Admin,Communications,Med Bay,Cafeteria,Navigation
+A,None,8,None,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None
+B,8,None,8,None,None,None,5,None,None,None,None,None,None,None,None,None,None,None,None,None
+C,None,8,None,8,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None
+D,None,None,8,None,13,None,None,4,None,None,None,None,None,None,None,None,None,None,None,None
+E,None,None,None,13,None,13,None,None,None,None,None,None,None,None,None,0,0,None,None,None
+F,None,None,None,None,13,None,None,None,17,None,None,None,None,None,None,None,None,None,None,None
+G,None,5,None,None,None,None,None,5,None,5,None,None,None,None,None,None,None,None,None,None
+H,None,None,None,4,None,None,5,None,6,None,None,None,None,None,None,None,None,None,None,None
+I,None,None,None,None,None,17,None,6,None,None,None,17,None,None,None,None,None,None,None,None
+J,None,None,None,None,None,None,5,None,None,None,4,None,4,None,None,None,None,None,None,None
+K,None,None,None,None,None,None,None,None,None,4,None,4,None,None,None,None,None,0,None,None
+L,None,None,None,None,None,None,None,None,17,None,4,None,4,None,None,None,None,None,None,0
+M,None,None,None,None,None,None,None,None,None,4,None,4,None,None,None,None,None,None,0,None
+Reactor,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Lower Engine,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Admin,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Communications,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Med Bay,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None
+Cafeteria,None,None,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None,None
+Navigation,None,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None
